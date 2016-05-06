@@ -1,0 +1,111 @@
+BEGIN TEST
+Test 01	String Length	TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings	TEST SUCCESS
+Test 04	Append	TEST SUCCESS
+Test 05	Prepend	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length	TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings	TEST SUCCESS
+Test 04	Append	TEST SUCCESS
+Test 05	Prepend	TEST SUCCESS
+Test 06	Const Char	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length	TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings	TEST SUCCESS
+Test 04	Append	TEST SUCCESS
+Test 05	Prepend	TEST SUCCESS
+Test 06	Const Char	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length		TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings	TEST SUCCESS
+Test 04	Append	TEST SUCCESS
+Test 05	Prepend	TEST SUCCESS
+Test 06	Const Char	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length		TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings		TEST SUCCESS
+Test 04	Append			TEST SUCCESS
+Test 05	Prepend			TEST SUCCESS
+Test 06	Const Char	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length		TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings		TEST SUCCESS
+Test 04	Append			TEST SUCCESS
+Test 05	Prepend			TEST SUCCESS
+Test 06	Const Char		TEST SUCCESS
+Test 07	To Uppercase		TEST SUCCESS
+Test 08	To Lowercase		TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length		TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings		TEST SUCCESS
+Test 04	Append			TEST SUCCESS
+Test 05	Prepend			TEST SUCCESS
+Test 06	Const Char		TEST SUCCESS
+Test 07	To Uppercase		TEST SUCCESS
+Test 08	To Lowercase		TEST SUCCESS
+Test 09	Find Substring		TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length		TEST SUCCESS
+Test 02	Locate Char at Index	TEST SUCCESS
+Test 03	Compare Strings		TEST SUCCESS
+Test 04	Append			TEST SUCCESS
+Test 05	Prepend			TEST SUCCESS
+Test 06	Const Char		TEST SUCCESS
+Test 07	To Uppercase		TEST SUCCESS
+Test 08	To Lowercase		TEST SUCCESS
+Test 09	Find Substring		TEST SUCCESS
+Test 10 Find Substring from Index	TEST FAIL
+END TEST
+BEGIN TEST
+Test 01	String Length			TEST SUCCESS
+Test 02	Locate Char at Index		TEST SUCCESS
+Test 03	Compare Strings			TEST SUCCESS
+Test 04	Append				TEST SUCCESS
+Test 05	Prepend				TEST SUCCESS
+Test 06	Const Char			TEST SUCCESS
+Test 07	To Uppercase			TEST SUCCESS
+Test 08	To Lowercase			TEST SUCCESS
+Test 09	Find Substring			TEST SUCCESS
+Test 10	Find Substring from Index	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length			TEST SUCCESS
+Test 02	Locate Char at Index		TEST SUCCESS
+Test 03	Compare Strings			TEST SUCCESS
+Test 04	Append				TEST SUCCESS
+Test 05	Prepend				TEST SUCCESS
+Test 06	Const Char			TEST SUCCESS
+Test 07	To Uppercase			TEST SUCCESS
+Test 08	To Lowercase			TEST SUCCESS
+Test 09	Find Substring			TEST SUCCESS
+Test 10	Find Substring from Index	TEST SUCCESS
+Test 11	Find Substring and Replace	TEST SUCCESS
+END TEST
+BEGIN TEST
+Test 01	String Length			TEST SUCCESS
+Test 02	Locate Char at Index		TEST SUCCESS
+Test 03	Compare Strings			TEST SUCCESS
+Test 04	Append				TEST SUCCESS
+Test 05	Prepend				TEST SUCCESS
+Test 06	Const Char			TEST SUCCESS
+Test 07	To Uppercase			TEST SUCCESS
+Test 08	To Lowercase			TEST SUCCESS
+Test 09	Find Substring			TEST SUCCESS
+Test 10	Find Substring from Index	TEST SUCCESS
+Test 11	Find Substring and Replace	TEST SUCCESS
+Test 12	Convert to C-Style String	TEST SUCCESS
+END TEST
