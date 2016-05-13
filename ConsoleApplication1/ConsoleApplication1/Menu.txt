@@ -1,0 +1,13 @@
+MENU
+
+Your boss locked you in the store after not getting your work done for the day.
+
+You don't care, you're going home anyway.
+
+MOVE north, south, east and west to navigate the game.
+
+you may LOOK at items, USE them, and GET them if necessary.
+
+"menu" for help and "inv" to check your inventory.
+
+
